@@ -111,6 +111,6 @@ run code:
 2. content_based.py
 * perform Recommender by similarity of movie features
 run code:
-	# recommend for user 5
+	//recommend for user 5
 	import content_based
 	content_based.content_based_recommend(5)
