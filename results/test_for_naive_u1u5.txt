@@ -1,0 +1,170 @@
+***********************************************************
+Test for k = 10:
+	use u1.base and u1.test :	0.991665732852
+	use u2.base and u2.test :	0.972533759529
+	use u3.base and u3.test :	0.968515272794
+	use u4.base and u4.test :	0.974738076505
+	use u5.base and u5.test :	0.974567766473
+mean of root mean square error: 0.976404121631
+***********************************************************
+Test for k = 11:
+	use u1.base and u1.test :	0.99214914473
+	use u2.base and u2.test :	0.971686511057
+	use u3.base and u3.test :	0.966881492215
+	use u4.base and u4.test :	0.973725538612
+	use u5.base and u5.test :	0.973293546446
+mean of root mean square error: 0.975547246612
+***********************************************************
+Test for k = 12:
+	use u1.base and u1.test :	0.991948058578
+	use u2.base and u2.test :	0.971305414849
+	use u3.base and u3.test :	0.966963545538
+	use u4.base and u4.test :	0.973562182446
+	use u5.base and u5.test :	0.972902857238
+mean of root mean square error: 0.97533641173
+***********************************************************
+Test for k = 13:
+	use u1.base and u1.test :	0.991549374651
+	use u2.base and u2.test :	0.971941791913
+	use u3.base and u3.test :	0.966647348132
+	use u4.base and u4.test :	0.973169524529
+	use u5.base and u5.test :	0.972476692843
+mean of root mean square error: 0.975156946414
+***********************************************************
+Test for k = 14:
+	use u1.base and u1.test :	0.991810463436
+	use u2.base and u2.test :	0.972190786744
+	use u3.base and u3.test :	0.965606366769
+	use u4.base and u4.test :	0.973042312271
+	use u5.base and u5.test :	0.971980797381
+mean of root mean square error: 0.97492614532
+***********************************************************
+Test for k = 15:
+	use u1.base and u1.test :	0.992607321812
+	use u2.base and u2.test :	0.971855361015
+	use u3.base and u3.test :	0.965729935432
+	use u4.base and u4.test :	0.974075030495
+	use u5.base and u5.test :	0.972064582757
+mean of root mean square error: 0.975266446302
+***********************************************************
+Test for k = 16:
+	use u1.base and u1.test :	0.99296519626
+	use u2.base and u2.test :	0.972080254606
+	use u3.base and u3.test :	0.96673897407
+	use u4.base and u4.test :	0.974519069739
+	use u5.base and u5.test :	0.972007105651
+mean of root mean square error: 0.975662120065
+***********************************************************
+Test for k = 17:
+	use u1.base and u1.test :	0.993282448143
+	use u2.base and u2.test :	0.972385614255
+	use u3.base and u3.test :	0.966855221396
+	use u4.base and u4.test :	0.974938496245
+	use u5.base and u5.test :	0.97309876447
+mean of root mean square error: 0.976112108902
+***********************************************************
+Test for k = 18:
+	use u1.base and u1.test :	0.994491745409
+	use u2.base and u2.test :	0.972803903464
+	use u3.base and u3.test :	0.967510417984
+	use u4.base and u4.test :	0.974318879499
+	use u5.base and u5.test :	0.974063087898
+mean of root mean square error: 0.976637606851
+***********************************************************
+Test for k = 19:
+	use u1.base and u1.test :	0.995023796516
+	use u2.base and u2.test :	0.973562490434
+	use u3.base and u3.test :	0.968066788588
+	use u4.base and u4.test :	0.974377549602
+	use u5.base and u5.test :	0.974667308512
+mean of root mean square error: 0.97713958673
+***********************************************************
+Test for k = 20:
+	use u1.base and u1.test :	0.995582925766
+	use u2.base and u2.test :	0.974292195874
+	use u3.base and u3.test :	0.968279248459
+	use u4.base and u4.test :	0.974915125148
+	use u5.base and u5.test :	0.974909322712
+mean of root mean square error: 0.977595763592
+***********************************************************
+Test for k = 21:
+	use u1.base and u1.test :	0.996450832536
+	use u2.base and u2.test :	0.975082319216
+	use u3.base and u3.test :	0.969294567004
+	use u4.base and u4.test :	0.974664648151
+	use u5.base and u5.test :	0.975638316558
+mean of root mean square error: 0.978226136693
+***********************************************************
+Test for k = 22:
+	use u1.base and u1.test :	0.997317317345
+	use u2.base and u2.test :	0.976426455755
+	use u3.base and u3.test :	0.969738519235
+	use u4.base and u4.test :	0.975208750765
+	use u5.base and u5.test :	0.976422988408
+mean of root mean square error: 0.979022806302
+***********************************************************
+Test for k = 23:
+	use u1.base and u1.test :	0.997977641451
+	use u2.base and u2.test :	0.976775552031
+	use u3.base and u3.test :	0.970461297563
+	use u4.base and u4.test :	0.975727752228
+	use u5.base and u5.test :	0.977172303418
+mean of root mean square error: 0.979622909338
+***********************************************************
+Test for k = 24:
+	use u1.base and u1.test :	0.998640235082
+	use u2.base and u2.test :	0.977375729828
+	use u3.base and u3.test :	0.971063335658
+	use u4.base and u4.test :	0.976584366715
+	use u5.base and u5.test :	0.977987691929
+mean of root mean square error: 0.980330271842
+***********************************************************
+Test for k = 25:
+	use u1.base and u1.test :	0.999164989735
+	use u2.base and u2.test :	0.978183936396
+	use u3.base and u3.test :	0.971449208562
+	use u4.base and u4.test :	0.977111327543
+	use u5.base and u5.test :	0.978272890724
+mean of root mean square error: 0.980836470592
+***********************************************************
+Test for k = 26:
+	use u1.base and u1.test :	1.00045440179
+	use u2.base and u2.test :	0.978575041688
+	use u3.base and u3.test :	0.972390603305
+	use u4.base and u4.test :	0.978110303315
+	use u5.base and u5.test :	0.978547434335
+mean of root mean square error: 0.981615556887
+***********************************************************
+Test for k = 27:
+	use u1.base and u1.test :	1.00127623396
+	use u2.base and u2.test :	0.979207351082
+	use u3.base and u3.test :	0.972852349369
+	use u4.base and u4.test :	0.978423733245
+	use u5.base and u5.test :	0.979608083453
+mean of root mean square error: 0.982273550222
+***********************************************************
+Test for k = 28:
+	use u1.base and u1.test :	1.00185427409
+	use u2.base and u2.test :	0.979838481033
+	use u3.base and u3.test :	0.973454603694
+	use u4.base and u4.test :	0.978749865776
+	use u5.base and u5.test :	0.980253124577
+mean of root mean square error: 0.982830069835
+***********************************************************
+Test for k = 29:
+	use u1.base and u1.test :	1.00262056853
+	use u2.base and u2.test :	0.980321941295
+	use u3.base and u3.test :	0.974031192765
+	use u4.base and u4.test :	0.979519416172
+	use u5.base and u5.test :	0.981051087672
+mean of root mean square error: 0.983508841286
+***********************************************************
+Test for k = 30:
+	use u1.base and u1.test :	1.00316749095
+	use u2.base and u2.test :	0.98108558772
+	use u3.base and u3.test :	0.974494701051
+	use u4.base and u4.test :	0.980215157182
+	use u5.base and u5.test :	0.981198236292
+mean of root mean square error: 0.984032234638
+optimal value of k: 14
+rmse with optimal k: 0.97492614532

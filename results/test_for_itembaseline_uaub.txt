@@ -1,0 +1,107 @@
+***********************************************************
+Test for k = 10:
+	use ua.base and ua.test :	0.947379713884
+	use ub.base and ub.test :	0.96138907267
+mean of root mean square error: 0.954384393277
+***********************************************************
+Test for k = 11:
+	use ua.base and ua.test :	0.945354890135
+	use ub.base and ub.test :	0.959790277105
+mean of root mean square error: 0.95257258362
+***********************************************************
+Test for k = 12:
+	use ua.base and ua.test :	0.944508216431
+	use ub.base and ub.test :	0.960781928443
+mean of root mean square error: 0.952645072437
+***********************************************************
+Test for k = 13:
+	use ua.base and ua.test :	0.943858479568
+	use ub.base and ub.test :	0.959087589023
+mean of root mean square error: 0.951473034296
+***********************************************************
+Test for k = 14:
+	use ua.base and ua.test :	0.942794670567
+	use ub.base and ub.test :	0.959462684637
+mean of root mean square error: 0.951128677602
+***********************************************************
+Test for k = 15:
+	use ua.base and ua.test :	0.943258024662
+	use ub.base and ub.test :	0.95957438324
+mean of root mean square error: 0.951416203951
+***********************************************************
+Test for k = 16:
+	use ua.base and ua.test :	0.942849782053
+	use ub.base and ub.test :	0.959502177335
+mean of root mean square error: 0.951175979694
+***********************************************************
+Test for k = 17:
+	use ua.base and ua.test :	0.942651125802
+	use ub.base and ub.test :	0.959451744594
+mean of root mean square error: 0.951051435198
+***********************************************************
+Test for k = 18:
+	use ua.base and ua.test :	0.942135961743
+	use ub.base and ub.test :	0.958992023579
+mean of root mean square error: 0.950563992661
+***********************************************************
+Test for k = 19:
+	use ua.base and ua.test :	0.94196434511
+	use ub.base and ub.test :	0.958913865522
+mean of root mean square error: 0.950439105316
+***********************************************************
+Test for k = 20:
+	use ua.base and ua.test :	0.941722476278
+	use ub.base and ub.test :	0.958878490701
+mean of root mean square error: 0.950300483489
+***********************************************************
+Test for k = 21:
+	use ua.base and ua.test :	0.941093820624
+	use ub.base and ub.test :	0.959838629218
+mean of root mean square error: 0.950466224921
+***********************************************************
+Test for k = 22:
+	use ua.base and ua.test :	0.941595796648
+	use ub.base and ub.test :	0.959905063529
+mean of root mean square error: 0.950750430089
+***********************************************************
+Test for k = 23:
+	use ua.base and ua.test :	0.942048644553
+	use ub.base and ub.test :	0.95977345538
+mean of root mean square error: 0.950911049967
+***********************************************************
+Test for k = 24:
+	use ua.base and ua.test :	0.942089295435
+	use ub.base and ub.test :	0.959543978635
+mean of root mean square error: 0.950816637035
+***********************************************************
+Test for k = 25:
+	use ua.base and ua.test :	0.942482040797
+	use ub.base and ub.test :	0.959978895141
+mean of root mean square error: 0.951230467969
+***********************************************************
+Test for k = 26:
+	use ua.base and ua.test :	0.943260566411
+	use ub.base and ub.test :	0.959887336357
+mean of root mean square error: 0.951573951384
+***********************************************************
+Test for k = 27:
+	use ua.base and ua.test :	0.943340804584
+	use ub.base and ub.test :	0.960341831735
+mean of root mean square error: 0.951841318159
+***********************************************************
+Test for k = 28:
+	use ua.base and ua.test :	0.943253577538
+	use ub.base and ub.test :	0.960451881904
+mean of root mean square error: 0.951852729721
+***********************************************************
+Test for k = 29:
+	use ua.base and ua.test :	0.943525919114
+	use ub.base and ub.test :	0.960660128707
+mean of root mean square error: 0.95209302391
+***********************************************************
+Test for k = 30:
+	use ua.base and ua.test :	0.944109766515
+	use ub.base and ub.test :	0.961067300133
+mean of root mean square error: 0.952588533324
+optimal value of k: 20
+rmse with optimal k: 0.950300483489
